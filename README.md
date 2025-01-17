@@ -86,9 +86,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Created By
 
 # [Manjil Budhathoki] - [https://github.com/manjil-budhathoki]
+<<<<<<< HEAD
 
 # PDF-to-PNG-Converter
 
 > > > > > > > 1f1e9ffcac4c6952ae540908f13ab36177a3c968
 
 Last updated: 01/17/2025 15:26:57
+=======
+>>>>>>> 82afff1cc97619fa971eedf124f3a151fcb29454
